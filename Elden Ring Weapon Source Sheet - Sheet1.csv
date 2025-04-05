@@ -1,0 +1,403 @@
+Name,Weight,DLC,Requirements,Damage Type,Category,Passive Effect,Skill
+Dueling Shield,9,Yes,"{'Str': 15, 'Dex': 14}",Standard/Pierce,Thrusting Shields,No passive effects,Shield Strike
+Carian Thrusting Shield,10.5,Yes,"{'Str': 17, 'Dex': 13, 'Int': 15}",Standard/Pierce,Thrusting Shields,No passive effects,Shield Strike
+Dryleaf Arts,1,Yes,"{'Str': 8, 'Dex': 8}",Strike,Hand-to-Hand Arts,No passive effects,Palm Blast
+Dane's Footwork,1,Yes,"{'Str': 8, 'Dex': 8}",Strike,Hand-to-Hand Arts,No passive effects,Palm Blast
+Smithscript Dagger,1.5,Yes,"{'Str': 5, 'Dex': 11, 'Int': 11, 'Fai': 11}",Pierce,Throwing Blades,No passive effects,Piercing Throw
+Backhand Blade,2,Yes,"{'Str': 10, 'Dex': 13}",Slash/Pierce,Backhand Blades,No passive effects,Blind Spot
+Smithscript Cirque,2,Yes,"{'Str': 9, 'Dex': 14, 'Int': 11, 'Fai': 11}",Slash,Backhand Blades,No passive effects,Blind Spot
+Curseblade's Cirque,4.5,Yes,"{'Str': 9, 'Dex': 22}",Slash,Backhand Blades,(45) Hemorrhage,Deadly Dance
+Firespark Perfume Bottle,1,Yes,"{'Str': 3, 'Dex': 14}",Standard,Perfume Bottles,No passive effects,Kick
+Chilling Perfume Bottle,1,Yes,"{'Str': 3, 'Dex': 13, 'Int': 13}",Standard,Perfume Bottles,(60) Frostbite,Kick
+Frenzyflame Perfume Bottle,1,Yes,"{'Str': 3, 'Dex': 10, 'Int': 12, 'Fai': 12}",Standard,Perfume Bottles,(60) Madness,Kick
+Lightning Perfume Bottle,1,Yes,"{'Str': 3, 'Dex': 16, 'Fai': 14}",Standard,Perfume Bottles,No passive effects,Kick
+Deadly Poison Perfume Bottle,1,Yes,"{'Str': 3, 'Dex': 13, 'Arc': 18}",Standard,Perfume Bottles,(66) Poison,Deadly Poison Spray
+Red Bear's Claw,4,Yes,"{'Str': 20, 'Dex': 10}",Slash,Beast Claws,(45) Hemorrhage,Red Bear Hunt
+Beast Claw (Weapon),3,Yes,"{'Str': 13, 'Dex': 11}",Slash,Beast Claws,(45) Hemorrhage,Savage Claws
+Milady,6.5,Yes,"{'Str': 12, 'Dex': 17}",Standard/Pierce,Light Greatswords,No passive effects,Impaling Thrust
+Leda's Sword,7.5,Yes,"{'Str': 11, 'Dex': 22, 'Fai': 19}",Standart/Pierce,Light Greatswords,No passive effects,Needle Piercer
+Rellana's Twin Blades,8,Yes,"{'Str': 13, 'Dex': 16, 'Int': 16, 'Fai': 16}",Standard/Pierce,Light Greatswords,No passive effects,Moon-and-Fire Stance
+Great Katana,9,Yes,"{'Str': 14, 'Dex': 18}",Slash/Pierce,Great Katanas,(55) Hemorrhage,Overhead Stance
+Dragon-Hunter's Great Katana,10.5,Yes,"{'Str': 15, 'Dex': 20}",Slash/Pierce,Great Katanas,(55) Hemorrhage,Dragonwound Slash
+Rakshasa's Great Katana,9.5,Yes,"{'Str': 12, 'Dex': 27}",Slash/Pierce,Great Katanas,(55) Hemorrhage,Weed Cutter
+Dagger,1.5,No,"{'Str': 5, 'Dex': 9}",Slash/Pierce,Daggers,No passive effects,Quickstep
+Parrying Dagger,1.5,No,"{'Str': 5, 'Dex': 14}",Slash/Pierce,Daggers,No passive effects,Parry
+Misericorde,2,No,"{'Str': 7, 'Dex': 12}",Slash/Pierce,Daggers,No passive effects,Quickstep
+Great Knife,1.5,No,"{'Str': 6, 'Dex': 12}",Slash/Pierce,Daggers,: (38) Hemorrhage,Quickstep
+Bloodstained Dagger,2,No,"{'Str': 9, 'Dex': 12}",Slash/Pierce,Daggers,(38) Hemorrhage,Quickstep
+Erdsteel Dagger,2,No,"{'Str': 7, 'Dex': 12, 'Fai': 14}",Slash/Pierce,Daggers,No passive effects,Quickstep
+Wakizashi,3,No,"{'Str': 9, 'Dex': 13}",Slash/Pierce,Daggers,(38) Hemorrhage,Quickstep
+Celebrant's Sickle,1.5,No,"{'Str': 6, 'Dex': 11}",Slash/Pierce,Daggers,Rune Gain on Hit,Quickstep
+Ivory Sickle,2,No,"{'Str': 6, 'Dex': 11, 'Int': 13}",Slash/Pierce,Daggers,No passive effects,Quickstep
+Crystal Knife,2,No,"{'Str': 8, 'Dex': 12, 'Int': 9}",Slash/Pierce,Daggers,No passive effects,Quickstep
+Scorpion's Stinger,2.5,No,"{'Str': 6, 'Dex': 12}",Slash/Pierce,Daggers,(50) Scarlet Rot,Repeating Thrust
+Cinquedea,3.5,No,"{'Str': 10, 'Dex': 10}",Slash/Pierce,Daggers,No passive effects,Quickstep
+Glintstone Kris,1.5,No,"{'Str': 5, 'Dex': 12, 'Int': 16}",Slash/Pierce,Daggers,No passive effects,Glintstone Dart
+Reduvia,2.5,No,"{'Str': 5, 'Dex': 13, 'Arc': 13}",Slash/Pierce,Daggers,(50) Hemorrhage,Reduvia Blood Blade
+Blade of Calling,1.5,No,"{'Str': 6, 'Dex': 13, 'Fai': 15}",Slash/Pierce,Daggers,No passive effects,Blade of Gold
+Black Knife,2,No,"{'Str': 8, 'Dex': 12, 'Fai': 18}",Slash/Pierce,Daggers,No passive effects,Blade of Death
+Main-gauche,2.5,Yes,"{'Str': 7, 'Dex': 15}",Slash/Pierce,Daggers,No passive effects,Parry
+Fire Knight's Shortsword,2,Yes,"{'Str': 8, 'Dex': 13, 'Fai': 12}",Slash/Pierce,Daggers,No passive effects,Quickstep
+Short Sword,3,No,"{'Str': 8, 'Dex': 10}",Standard/Pierce,Straight Swords,No passive effects,Kick
+Longsword,3.5,No,"{'Str': 10, 'Dex': 10}",Standard/Pierce,Straight Swords,No passive effects,Square Off
+Broadsword,4,No,"{'Str': 10, 'Dex': 10}",Standard/Pierce,Straight Swords,No passive effects,Square Off
+Weathered Straight Sword,3,No,"{'Str': 7, 'Dex': 10}",Standard/Pierce,Straight Swords,No passive effects,Square Off
+Lordsworn's Straight Sword,3.5,No,"{'Str': 10, 'Dex': 10}",Standard/Pierce,Straight Swords,No passive effects,Square Off
+Noble's Slender Sword,3.5,No,{'Str': 8},Standard/Pierce,Straight Swords,No passive effects,Square Off
+Cane Sword,2.5,No,"{'Str': 8, 'Dex': 11}",Standard/Pierce,Straight Swords,No passive effects,Square Off
+Warhawk's Talon,3,No,"{'Str': 10, 'Dex': 16}",Standard/Pierce,Straight Swords,No passive effects,Spinning Slash
+Lazuli Glintstone Sword,3.5,No,"{'Str': 8, 'Dex': 9, 'Int': 13}",Standard/Pierce,Straight Swords,No passive effects,Glintstone Pebble
+Carian Knight's Sword,4,No,"{'Str': 10, 'Dex': 10, 'Int': 18}",Standard/Pierce,Straight Swords,No passive effects,Carian Grandeur
+Crystal Sword,4.5,No,"{'Str': 13, 'Dex': 10, 'Int': 15}",Standard/Pierce,Straight Swords,No passive effects,Spinning Slash
+Rotten Crystal Sword,4.5,No,"{'Str': 13, 'Dex': 10, 'Int': 15}",Pierce,Straight Swords,(50) Scarlet Rot,Spinning Slash
+Miquellan Knight's Sword,3.5,No,"{'Str': 11, 'Dex': 11, 'Fai': 16}",Standard/Pierce,Straight Swords,No passive effects,Sacred Blade
+Ornamental Straight Sword,3,No,"{'Str': 10, 'Dex': 14}",Standard/Pierce,Straight Swords,No passive effects,Golden Tempering
+Golden Epitaph,3.5,No,"{'Str': 12, 'Dex': 10, 'Fai': 14}",Standard/Pierce,Straight Swords,No passive effects,Last Rites
+Sword of St Trina,3,No,"{'Str': 10, 'Dex': 12, 'Int': 14}",Standard/Pierce,Straight Swords,(66) Sleep,Mists of Slumber
+Regalia of Eochaid,5.5,No,"{'Str': 12, 'Dex': 18, 'Arc': 15}",Standard/Pierce,Straight Swords,No passive effects,Eochaid's Dancing Blade
+Coded Sword,2.5,No,{'Fai': 20},Standard/Pierce,Straight Swords,No passive effects,Unblockable Blade
+Sword of Night and Flame,4,No,"{'Str': 12, 'Dex': 12, 'Int': 24, 'Fai': 24}",Standard/Pierce,Straight Swords,No passive effects,Night-and-Flame Stance
+Velvet Sword of St Trina,2.5,Yes,"{'Str': 10, 'Dex': 12, 'Int': 14}",Standard/Pierce,Straight Swords,(42) Sleep,Mists of Eternal Sleep
+Stone-Sheathed Sword,5,Yes,"{'Str': 16, 'Dex': 8}",Strike,Straight Swords,No passive effects,Square Off
+Sword of Light,4,Yes,"{'Str': 14, 'Dex': 11, 'Fai': 24}",Standard/Pierce,Straight Swords,No passive effects,Light
+Sword of Darkness,4,Yes,"{'Str': 14, 'Dex': 11, 'Fai': 24}",Standard/Pierce,Straight Swords,No passive effects,Darkness
+Bastard Sword,9,No,"{'Str': 16, 'Dex': 10}",Standard/Pierce,Greatswords,No passive effects,Stamp (Upward Cut)
+Claymore,9,No,"{'Str': 16, 'Dex': 13}",Standard/Pierce,Greatswords,No passive effects,Lion's Claw
+Iron Greatsword,12,No,"{'Str': 18, 'Dex': 10}",Standard/Pierce,Greatswords,No passive effects,Stamp (Upward Cut)
+Lordsworn's Greatsword,9,No,"{'Str': 16, 'Dex': 10}",Standard/Pierce,Greatswords,No passive effects,Stamp (Upward Cut)
+Knight's Greatsword,10,No,"{'Str': 16, 'Dex': 12}",Standard/Pierce,Greatswords,No passive effects,Stamp (Upward Cut)
+Banished Knight's Greatsword,10,No,{'Str': 17},Standard/Pierce,Greatswords,No passive effects,Stamp (Upward Cut)
+Forked Greatsword,9,No,"{'Str': 14, 'Dex': 16}",Standard/Pierce,Greatswords,(55) Hemorrhage,Stamp (Upward Cut)
+Flamberge,10,No,"{'Str': 15, 'Dex': 14}",Standard/Pierce,Greatswords,(55) Hemorrhage,Stamp (Upward Cut)
+Gargoyle's Greatsword,11.5,No,"{'Str': 18, 'Dex': 10}",Standard/Pierce,Greatswords,No passive effects,Vacuum Slice
+Gargoyle's Blackblade,11.5,No,"{'Str': 18, 'Dex': 10, 'Fai': 22}",Standard/Pierce,Greatswords,No passive effects,Corpse Wax Cutter
+Inseparable Sword,10,No,"{'Str': 18, 'Dex': 18, 'Fai': 20}",Standard/Pierce,Greatswords,No passive effects,Sacred Blade
+Sword of Milos,10,No,"{'Str': 15, 'Dex': 19}",Standard/Pierce,Greatswords,(55) Hemorrhage,Shriek of Milos
+Marais Executioner's Sword,11.5,No,"{'Str': 24, 'Dex': 14, 'Arc': 23}",Standard/Pierce,Greatswords,No passive effects,Eochaid's Dancing Blade
+Ordovis's Greatsword,12,No,"{'Str': 25, 'Dex': 13, 'Fai': 15}",Standard/Pierce,Greatswords,No passive effects,Ordovis's Vortex
+Alabaster Lord's Sword,8,No,"{'Str': 16, 'Dex': 12, 'Int': 18}",Standard/Pierce,Greatswords,No passive effects,Alabaster Lords' Pull
+Death's Poker,8.5,No,"{'Str': 15, 'Dex': 17, 'Int': 11}",Standard/Pierce,Greatswords,(65) Frostbite,Ghostflame Ignition
+Helphen's Steeple,11.5,No,"{'Str': 19, 'Dex': 10, 'Int': 22}",Standard/Pierce,Greatswords,No passive effects,Ruinous Ghostflame
+Blasphemous Blade,13.5,No,"{'Str': 22, 'Dex': 15, 'Fai': 21}",Standard/Pierce,Greatswords,No passive effects,Taker's Flames
+Golden Order Greatsword,10,No,"{'Str': 16, 'Dex': 21, 'Fai': 28}",Standard/Pierce,Greatswords,No passive effects,Establish Order
+Dark Moon Greatsword,10,No,"{'Str': 16, 'Dex': 11, 'Int': 38}",Standard/Pierce,Greatswords,(55) Frostbite,Moonlight Greatsword
+Sacred Relic Sword,11,No,"{'Str': 14, 'Dex': 24, 'Fai': 22}",Standard/Pierce,Greatswords,No passive effects,Wave of Gold
+Lizard Greatsword,9.5,Yes,"{'Str': 12, 'Dex': 14}",Strike/Pierce,Greatswords,No passive effects,Stamp (Upward Cut)
+Greatsword of Damnation,8,Yes,"{'Str': 20, 'Dex': 15, 'Fai': 20}",Standard/Pierce,Greatswords,No passive effects,Golden Crux
+Greatsword of Solitude,15.5,Yes,"{'Str': 27, 'Dex': 13}",Standard/Pierce,Greatswords,No passive effects,Solitary Moon Slash
+Zweihander,15.5,No,"{'Str': 19, 'Dex': 11}",Standard,Colossal Swords,No passive effects,Stamp (Upward Cut)
+Greatsword,23,No,"{'Str': 31, 'Dex': 12}",Standard,Colossal Swords,No passive effects,Stamp (Upward Cut)
+Watchdog's Greatsword,22,No,"{'Str': 30, 'Dex': 10}",Standard,Colossal Swords,No passive effects,Stamp (Upward Cut)
+Troll's Golden Sword,19,No,"{'Str': 29, 'Dex': 10}",Standard,Colossal Swords,No passive effects,Troll's Roar
+Troll Knight's Sword,18,No,"{'Str': 20, 'Dex': 14, 'Int': 18}",Standard,Colossal Swords,No passive effects,Troll's Roar
+Royal Greatsword,20,No,"{'Str': 26, 'Dex': 18, 'Int': 22}",Standard,Colossal Swords,No passive effects,Wolf s Assault
+Grafted Blade Greatsword,21,No,"{'Str': 40, 'Dex': 14}",Standard,Colossal Swords,No passive effects,Oath of Vengeance
+Ruins Greatsword,23,No,"{'Str': 50, 'Int': 16}",Standard,Colossal Swords,No passive effects,Wave of Destruction
+Starscourge Greatsword,20,No,"{'Str': 38, 'Dex': 12, 'Int': 15}",Standard,Colossal Swords,No passive effects,Starcaller Cry
+Godslayer's Greatsword,17.5,No,"{'Str': 20, 'Dex': 22, 'Fai': 20}",Standard,Colossal Swords,No passive effects,The Queen's Black Flame
+Maliketh's Black Blade,22,No,"{'Str': 34, 'Dex': 12, 'Fai': 20}",Standard,Colossal Swords,No passive effects,Destined Death
+Ancient Meteoric Ore Greatsword,22,Yes,"{'Str': 35, 'Dex': 10, 'Arc': 19}",Standard/Pierce,Colossal Swords,No passive effects,White Light Charge
+Fire Knight's Greatsword,16,Yes,"{'Str': 22, 'Dex': 18, 'Fai': 12}",Standard/Pierce,Colossal Swords,No passive effects,Stamp (Upward Cut)
+Greatsword of Radahn (Light),20,Yes,"{'Str': 32, 'Dex': 24, 'Int': 15}",Standard/Pierce,Colossal Swords,No passive effects,Lightspeed Slash
+Greatsword of Radahn (Lord),19,Yes,"{'Str': 32, 'Dex': 24, 'Int': 15}",Standard/Pierce,Colossal Swords,No passive effects,Promised Consort
+Moonrithyll's Knight Sword,18,Yes,"{'Str': 20, 'Dex': 14, 'Int': 18}",Standard/Pierce,Colossal Swords,No passive effects,Tremendous Phalanx
+Rapier,2.5,No,"{'Str': 7, 'Dex': 12}",Standard/Pierce,Thrusting Swords,No passive effects,Impaling Thrust
+Estoc,4.5,No,"{'Str': 11, 'Dex': 13}",Standard/Pierce,Thrusting Swords,No passive effects,Impaling Thrust
+Noble's Estoc,3.5,No,"{'Str': 9, 'Dex': 10}",Standard/Pierce,Thrusting Swords,No passive effects,Impaling Thrust
+Cleanrot Knight's Sword,4,No,"{'Str': 11, 'Dex': 13}",Standard/Pierce,Thrusting Swords,No passive effects,Impaling Thrust
+Rogier's Rapier,3.5,No,"{'Str': 8, 'Dex': 17}",Standard/Pierce,Thrusting Swords,No passive effects,Repeating Thrust
+Antspur Rapier,3,No,"{'Str': 10, 'Dex': 20}",Standard/Pierce,Thrusting Swords,(55) Scarlet Rot,Impaling Thrust
+Frozen Needle,2.5,No,"{'Str': 11, 'Dex': 18}",Standard/Pierce,Thrusting Swords,(60) Frostbite,Impaling Thrust
+Carian Sorcery Sword,2.5,Yes,"{'Str': 10, 'Dex': 19, 'Int': 16}",Standard/Pierce,Thrusting Swords,No passive effects,Impaling Thrust
+Great Epee,6.5,No,"{'Str': 15, 'Dex': 16}",Standard/Pierce,Heavy Thrusting Swords,No passive effects,Impaling Thrust
+Godskin Stitcher,7,No,"{'Str': 14, 'Dex': 17}",Standard/Pierce,Heavy Thrusting Swords,No passive effects,Impaling Thrust
+Bloody Helice,8,No,"{'Str': 16, 'Dex': 19, 'Arc': 17}",Standard/Pierce,Heavy Thrusting Swords,(55) Hemorrhage,Dynast's Finesse
+Dragon King's Cragblade,8,No,"{'Str': 18, 'Dex': 37}",Standard/Pierce,Heavy Thrusting Swords,No passive effects,Thundercloud Form
+Queelign's Greatsword,7.5,Yes,"{'Str': 14, 'Dex': 18, 'Fai': 12}",Standard/Pierce,Heavy Thrusting Swords,No passive effects,Impaling Thrust
+Sword Lance,9,Yes,"{'Str': 21, 'Dex': 11}",Standard/Pierce,Heavy Thrusting Swords,No passive effects,Impaling Thrust
+Scimitar,3,No,"{'Str': 7, 'Dex': 13}",Slash,Curved Swords,No passive effects,Spinning Slash
+Falchion,3.5,No,"{'Str': 9, 'Dex': 13}",Slash,Curved Swords,No passive effects,Spinning Slash
+Shamshir,3.5,No,"{'Str': 7, 'Dex': 13}",Slash,Curved Swords,No passive effects,Spinning Slash
+Grossmesser,4.5,No,"{'Str': 14, 'Dex': 12}",Slash,Curved Swords,No passive effects,Spinning Slash
+Bandit's Curved Sword,5,No,"{'Str': 11, 'Dex': 13}",Slash,Curved Swords,No passive effects,Spinning Slash
+Shotel,2,No,"{'Str': 9, 'Dex': 19}",Slash,Curved Swords,No passive effects,Spinning Slash
+Scavenger's Curved Sword,3.5,No,"{'Str': 9, 'Dex': 14}",Slash,Curved Swords,(45) Hemorrhage,Spinning Slash
+Mantis Blade,4,No,"{'Str': 10, 'Dex': 12}",Slash,Curved Swords,No passive effects,Spinning Slash
+Beastman's Curved Sword,4,No,"{'Str': 13, 'Dex': 11}",Slash,Curved Swords,No passive effects,Spinning Slash
+Flowing Curved Sword,3.5,No,"{'Str': 9, 'Dex': 17}",Slash,Curved Swords,No passive effects,Spinning Slash
+Serpent-God's Curved Sword,4,No,"{'Str': 13, 'Dex': 9}",Slash,Curved Swords,No passive effects,Spinning Slash
+Magma Blade,4,No,"{'Str': 9, 'Dex': 15, 'Fai': 16}",Slash,Curved Swords,No passive effects,Magma Shower
+Nox Flowing Sword,3.5,No,"{'Str': 8, 'Dex': 15}",Slash,Curved Swords,No passive effects,Flowing Form
+Wing of Astel,2.5,No,"{'Str': 7, 'Dex': 17, 'Int': 20}",Slash,Curved Swords,No passive effects,Nebula
+Eclipse Shotel,3,No,"{'Str': 10, 'Dex': 25, 'Fai': 30}",Slash,Curved Swords,No passive effects,Death Flare
+Spirit Sword,2.5,Yes,"{'Str': 8, 'Dex': 16, 'Int': 16}",Slash,Curved Swords,No passive effects,Rancor Slash
+Falx,4,Yes,"{'Str': 12, 'Dex': 15}",Slash,Curved Swords,(55) Hemorrhage,Revenger's Blade
+Dancing Blade of Ranah,3.5,Yes,"{'Str': 9, 'Dex': 20}",Slash,Curved Swords,No passive effects,Unending Dance
+Horned Warrior's Sword,5,Yes,"{'Str': 11, 'Dex': 14, 'Faith': 14}",Slash,Curved Swords,No passive effects,Horn Calling
+Dismounter,10,No,"{'Str': 19, 'Dex': 16}",Slash,Curved Greatswords,No passive effects,Spinning Slash
+Omen Cleaver,11.5,No,"{'Str': 19, 'Dex': 16}",Slash,Curved Greatswords,No passive effects,Spinning Slash
+Monk's Flameblade,9,No,"{'Str': 18, 'Dex': 18}",Slash,Curved Greatswords,No passive effects,Spinning Slash
+Beastman's Cleaver,16.5,No,"{'Str': 25, 'Dex': 14}",Slash,Curved Greatswords,No passive effects,Spinning Slash
+Bloodhound's Fang,11.5,No,"{'Str': 18, 'Dex': 17}",Slash,Curved Greatswords,(55) Hemorrhage,Bloodhound's Finesse
+Onyx Lord's Greatsword,11.5,No,"{'Str': 20, 'Dex': 16, 'Int': 16}",Slash,Curved Greatswords,No passive effects,Onyx Lord's Repulsion
+Zamor Curved Sword,9,No,"{'Str': 16, 'Dex': 18}",Slash,Curved Greatswords,(65) Frostbite,Zamor Ice Storm
+Magma Wyrm's Scalesword,15,No,"{'Str': 24, 'Dex': 15, 'Fai': 18}",Slash,Curved Greatswords,No passive effects,Magma Guillotine
+Morgott's Cursed Sword,7.5,No,"{'Str': 14, 'Dex': 35, 'Arc': 17}",Slash,Curved Greatswords,(60) Hemorrhage,Cursed-Blood Slice
+Horned Warrior's Greatsword,13,Yes,"{'Str': 19, 'Dex': 16, 'Fai': 13}",Slash,Curved Greatswords,No passive effects,Horn Calling: Storm
+Freyja's Greatsword,14,Yes,"{'Str': 25, 'Dex': 14}",Slash,Curved Greatswords,No passive effects,Spinning Slash
+Uchigatana,5.5,No,"{'Str': 11, 'Dex': 15}",Slash/Pierce,Katanas,(45) Hemorrhage,Unsheathe
+Nagakiba,7,No,"{'Str': 18, 'Dex': 22}",Slash/Pierce,Katanas,(45) Hemorrhage,Unsheathe
+Serpentbone Blade,6,No,"{'Str': 11, 'Dex': 22}",Slash/Pierce,Katanas,(66) Poison,Double Slash
+Meteoric Ore Blade,7.5,No,"{'Str': 15, 'Dex': 14, 'Int': 18}",Slash/Pierce,Katanas,(50) Hemorrhage,Gravitas
+Moonveil,6.5,No,"{'Str': 12, 'Dex': 18, 'Int': 23}",Slash/Pierce,Katanas,(50) Hemorrhage,Transient Moonlight
+Rivers of Blood,6.5,No,"{'Str': 12, 'Dex': 18, 'Arc': 20}",Slash/Pierce,Katanas,(50) Hemorrhage,Corpse Piler
+Dragonscale Blade,5.5,No,"{'Str': 12, 'Dex': 20}",Slash/Pierce,Katanas,No passive effects,Ice Lightning Sword
+Hand of Malenia,7,No,"{'Str': 16, 'Dex': 48}",Slash/Pierce,Katanas,(50) Hemorrhage,Waterfowl Dance
+Star-Lined Sword,5,Yes,"{'Str': 10, 'Dex': 23, 'Int': 21}",Slash/Pierce,Katanas,-45,Onze's Line of Stars
+Sword of Night,6.5,Yes,"{'Str': 11, 'Dex': 20}",Slash/Pierce,Katanas,(45) Hemorrhage,Witching Hour Slash
+Twinblade,7,No,"{'Str': 10, 'Dex': 18}",Standard/Pierce,Twinblades,No passive effects,Spinning Slash
+Twinned Knight Swords,8,No,"{'Str': 16, 'Dex': 18}",Standard/Pierce,Twinblades,No passive effects,Spinning Slash
+Godskin Peeler,8,No,"{'Str': 17, 'Dex': 22}",Standard/Pierce,Twinblades,No passive effects,Black Flame Tornado
+Gargoyle's Twinblade,8.5,No,"{'Str': 18, 'Dex': 15}",Standard/Pierce,Twinblades,No passive effects,Spinning Slash
+Gargoyle's Black Blades,8.5,No,"{'Str': 18, 'Dex': 15, 'Fai': 22}",Standard/Pierce,Twinblades,No passive effects,Spinning Slash
+Eleonora's Poleblade,6,No,"{'Str': 12, 'Dex': 21, 'Arc': 19}",Standard/Pierce,Twinblades,(55) Hemorrhage,Bloodblade Dance
+Black Steel Twinblade,8,Yes,"{'Str': 18, 'Dex': 15, 'Fai': 13}",Standard/Pierce,Twinblades,No passive effects,Spinning Slash
+Euporia,8.5,Yes,"{'Str': 16, 'Dex': 16, 'Fai': 24}",Standard/Pierce,Twinblades,No passive effects,Euporia Vortex
+Hand Axe,3.5,No,"{'Str': 9, 'Dex': 8}",Standard,Axes,No passive effects,Quickstep
+Forked Hatchet,2.5,No,"{'Str': 9, 'Dex': 14}",Standard,Axes,(50) Hemorrhage,Quickstep
+Battle Axe,4.5,No,"{'Str': 12, 'Dex': 8}",Standard,Axes,No passive effects,Wild Strikes
+Warped Axe,7.5,No,"{'Str': 24, 'Dex': 8}",Standard,Axes,No passive effects,War Cry
+Jawbone Axe,5.5,No,"{'Str': 14, 'Dex': 8}",Strike,Axes,No passive effects,Wild Strikes
+Iron Cleaver,6,No,"{'Str': 15, 'Dex': 7}",Standard,Axes,No passive effects,Wild Strikes
+Highland Axe,4.5,No,"{'Str': 12, 'Dex': 9}",Standard,Axes,Roar Buff,War Cry
+Celebrant's Cleaver,4.5,No,"{'Str': 12, 'Dex': 8}",Standard,Axes,No passive effects,Wild Strikes
+Sacrificial Axe,5.5,No,"{'Str': 16, 'Dex': 10}",Standard,Axes,No passive effects,Wild Strikes
+Icerind Hatchet,3,No,"{'Str': 11, 'Dex': 16}",Standard,Axes,(65) Frostbite,Hoarfrost Stomp
+Ripple Blade,4.5,No,"{'Str': 11, 'Dex': 11, 'Arc': 20}",Standard,Axes,No passive effects,Wild Strikes
+Stormhawk Axe,5.5,No,"{'Str': 19, 'Dex': 15}",Standard,Axes,No passive effects,Thunderstorm
+Rosus' Axe,5.5,No,"{'Str': 18, 'Dex': 10, 'Int': 18}",Standard,Axes,No passive effects,Rosus's Summons
+Forked-Tongue Hatchet,4,Yes,"{'Str': 10, 'Dex': 13}",Standar/Pierce,Axes,(50) Hemorrhage,Dragonform Flame
+Smithscript Axe,5,Yes,"{'Str': 13, 'Dex': 10, 'Int': 11, 'Fai': 11}",Standard,Axes,No passive effects,Wild Strikes
+Messmer Soldier's Axe,5.5,Yes,"{'Str': 14, 'Dex': 10}",Standard,Axes,No passive effects,War Cry
+Death Knight's Twin Axes,5.5,Yes,"{'Str': 14, 'Dex': 12, 'Fai': 16}",Standard,Axes,No passive effects,Blinkbolt: Twinaxe
+Greataxe,13,No,"{'Str': 30, 'Dex': 8}",Standard,Greataxes,No passive effects,Barbaric Roar
+Crescent Moon Axe,12.5,No,"{'Str': 25, 'Dex': 15}",Standard,Greataxes,No passive effects,War Cry
+Longhaft Axe,12.5,No,"{'Str': 24, 'Dex': 8}",Standard,Greataxes,No passive effects,War Cry
+Executioner's Greataxe,15,No,"{'Str': 34, 'Dex': 8}",Standard,Greataxes,No passive effects,War Cry
+Great Omenkiller Cleaver,11,No,"{'Str': 23, 'Dex': 12}",Standard,Greataxes,(55) Hemorrhage,Wild Strike
+Rusted Anchor,12.5,No,"{'Str': 26, 'Dex': 9}",Pierce,Greataxes,No passive effects,Barbaric Roar
+Butchering Knife,8.5,No,"{'Str': 16, 'Dex': 20}",Standard,Greataxes,No passive effects,Barbaric Roar
+Gargoyle's Great Axe,8.5,No,"{'Str': 24, 'Dex': 8}",Standard,Greataxes,No passive effects,War Cry
+Gargoyle's Black Axe,8.5,No,"{'Str': 24, 'Dex': 8, 'Fai': 22}",Standard,Greataxes,No passive effects,War Cry
+Winged Greathorn,11,No,"{'Str': 30, 'Dex': 20}",Standard,Greataxes,No passive effects,Soul Stifler
+Axe of Godrick,11,No,"{'Str': 34, 'Dex': 22}",Standard,Greataxes,No passive effects,"I Command Thee, Kneel!"
+Putrescence Cleaver,13.5,Yes,"{'Str': 28, 'Dex': 10, 'Arc': 15}",Slash,Greataxes,(55) Frostbite,Spinning Guillotine
+Death Knight's Longhaft Axe,11.5,Yes,"{'Str': 23, 'Dex': 10, 'Fai': 18}",Standard,Greataxes,No passive effects,Blinkbolt: Long-hafted Axe
+Bonny Butchering Knife,8.5,Yes,"{'Str': 16, 'Dex': 20}",Standard,Greataxes,No passive effects,Hone Blade
+Club,3.5,No,{'Str': 10},Strike,Hammers,No passive effects,Barbaric Roar
+Curved Club,5,No,"{'Str': 11, 'Dex': 7}",Strike,Hammers,No passive effects,Barbaric Roar
+Spiked Club,5,No,"{'Str': 12, 'Dex': 7}",Strike,Hammers,(50) Hemorrhage,Barbaric Roar
+Stone Club,7,No,"{'Str': 16, 'Dex': 8}",Strike,Hammers,No passive effects,Kick
+Mace,4.5,No,"{'Str': 12, 'Dex': 7}",Strike,Hammers,No passive effects,Kick
+Morning Star,5,No,"{'Str': 12, 'Dex': 8}",Strike,Hammers,(50) Hemorrhage,Kick
+Warpick,2.5,No,"{'Str': 11, 'Dex': 9}",Strike,Hammers,No passive effects,Kick
+Hammer,6.5,No,"{'Str': 14, 'Dex': 7}",Strike,Hammers,No passive effects,Kick
+Monk's Flamemace,6,No,"{'Str': 13, 'Dex': 13}",Strike,Hammers,No passive effects,Kick
+Varre's Bouquet,2,No,"{'Str': 8, 'Dex': 16, 'Arc': 24}",Strike,Hammers,Causes blood loss buildup (65),Blood Tax
+Envoy's Horn,4,No,"{'Str': 10, 'Dex': 12, 'Fai': 16}",Strike,Hammers,No passive effects,Oracular Bubble
+Nox Flowing Hammer,6.5,No,"{'Str': 17, 'Dex': 7}",Strike,Hammers,No passive effects,Flowing Form
+Ringed Finger,4.5,No,"{'Str': 15, 'Dex': 9}",Strike,Hammers,No passive effects,Claw Flick
+Scepter of the All-Knowing,4.5,No,"{'Str': 12, 'Dex': 18, 'Int': 21}",Strike/Pierce,Hammers,No passive effects,Knowledge Above All
+Marika's Hammer,6,No,"{'Str': 20, 'Dex': 12, 'Fai': 19}",Strike,Hammers,No passive effects,Gold Breaker
+Flowerstone Gavel,6,Yes,"{'Str': 14, 'Dex': 8, 'Arc': 15}",Pierce,Hammers,No passive effects,Flower Dragonbolt
+Flail,5,No,"{'Str': 10, 'Dex': 18}",Strike,Flails,(50) Hemorrhage,Spinning Chain
+Nightrider Flail,6,No,"{'Str': 10, 'Dex': 24}",Strike,Flails,(50) Hemorrhage,Spinning Chain
+Chainlink Flail,8,No,"{'Str': 18, 'Dex': 12}",Strike,Flails,(50) Hemorrhage,Spinning Chain
+Family Heads,5.5,No,"{'Str': 8, 'Dex': 18, 'Int': 16}",Strike,Flails,No passive effects,Familial Rancor
+Bastard's Stars,5.5,No,"{'Str': 8, 'Dex': 22, 'Int': 22}",Strike,Flails,No passive effects,Nebula
+Serpent Flail,6,Yes,"{'Str': 10, 'Dex': 24, 'Fai': 21}",Strike,Flails,No passive effects,"Flare, O Serpent"
+Large Club,8.5,No,{'Str': 22},Strike,Great Hammers,No passive effects,Barbaric Roar
+Curved Great Club,10,No,"{'Str': 24, 'Dex': 10}",Strike,Great Hammers,No passive effects,Barbaric Roar
+Great Mace,11.5,No,{'Str': 28},Strike,Great Hammers,No passive effects,Endure
+Pickaxe,10,No,"{'Str': 22, 'Dex': 10}",Pierce,Great Hammers,No passive effects,Endure
+Brick Hammer,12.5,No,{'Str': 31},Strike,Great Hammers,No passive effects,Barbaric Roar
+Battle Hammer,10,No,"{'Str': 26, 'Dex': 8}",Strike,Great Hammers,No passive effects,Braggart's Roar
+Rotten Battle Hammer,10,No,"{'Str': 26, 'Dex': 8}",Strike,Great Hammers,(65) Scarlet Rot,Braggart's Roar
+Celebrant's Skull,8.5,No,"{'Str': 18, 'Dex': 12}",Strike,Great Hammers,No passive effects,Barbaric Roar
+Great Stars,10,No,"{'Str': 22, 'Dex': 12}",Strike,Great Hammers,(55) Hemorrhage,Endure
+Greathorn Hammer,10,No,"{'Str': 22, 'Dex': 10}",Strike,Great Hammers,No passive effects,Barbaric Roar
+Envoy's Long Horn,9.5,No,"{'Str': 23, 'Dex': 11, 'Fai': 18}",Strike,Great Hammers,No passive effects,Bubble Shower
+Cranial Vessel Candlestand,12.5,No,"{'Str': 26, 'Dex': 8, 'Fai': 22}",Strike,Great Hammers,No passive effects,Surge of Faith
+Beastclaw Greathammer,9,No,"{'Str': 20, 'Dex': 10, 'Fai': 18}",Strike,Great Hammers,No passive effects,Regal Beastclaw
+Devourer's Scepter,11.5,No,"{'Str': 24, 'Dex': 20, 'Fai': 25}",Strike,Great Hammers,No passive effects,Devourer of Worlds
+Black Steel Greathammer,12,Yes,"{'Str': 25, 'Dex': 11, 'Fai': 17}",Strike,Great Hammers,No passive effects,Endure
+Smithscript Greathammer,9,Yes,"{'Str': 20, 'Dex': 10, 'Int': 11, 'Fai': 11}",Strike,Great Hammers,No passive effects,Endure
+Duelist Greataxe,20,No,"{'Str': 30, 'Dex': 10}",Standard,Colossal Weapons,No passive effects,Endure
+Rotten Greataxe,20,No,"{'Str': 30, 'Dex': 10}",Standard,Colossal Weapons,(65) Scarlet Rot,Endure
+Golem's Halberd,21.5,No,"{'Str': 36, 'Dex': 14}",Standard/Pierce,Colossal Weapons,No passive effects,Charge Forth
+Giant-Crusher,26.5,No,{'Str': 60},Strike,Colossal Weapons,No passive effects,Endure
+Prelate's Inferno Crozier,23.5,No,"{'Str': 45, 'Dex': 8}",Strike,Colossal Weapons,No passive effects,Prelate's Charge
+Great Club,17,No,{'Str': 35},Strike,Colossal Weapons,No passive effects,Golden Land
+Troll's Hammer,16,No,"{'Str': 28, 'Dex': 8, 'Fai': 10}",Strike,Colossal Weapons,No passive effects,Troll's Roar
+Dragon Greatclaw,16,No,"{'Str': 30, 'Dex': 14}",Standard,Colossal Weapons,No passive effects,Endure
+Watchdog's Staff,19,No,"{'Str': 34, 'Dex': 10}",Strike,Colossal Weapons,No passive effects,Sorcery of the Crozier
+Staff of the Avatar,20,No,"{'Str': 34, 'Dex': 8, 'Fai': 24}",Strike,Colossal Weapons,No passive effects,Erdtree Slam
+Rotten Staff,18,No,"{'Str': 34, 'Dex': 8}",Strike,Colossal Weapons,(75) Scarlet Rot,Erdtree Slam
+Envoy's Greathorn,19.5,No,"{'Str': 28, 'Dex': 12, 'Fai': 24}",Strike,Colossal Weapons,No passive effects,Great Oracular Bubble
+Ghiza's Wheel,19,No,"{'Str': 28, 'Dex': 18}",Standard,Colossal Weapons,(70) Hemorrhage,Spinning Wheel
+Fallingstar Beast Jaw,21.5,No,"{'Str': 34, 'Dex': 12, 'Int': 20}",Pierce,Colossal Weapons,No passive effects,Gravity Bolt
+Axe of Godfrey,18,No,"{'Str': 42, 'Dex': 14}",Standard,Colossal Weapons,No passive effects,Regal Roar
+Bloodfiend's Arm,20,Yes,"{'Str': 28, 'Dex': 11, 'Arc': 16}",Strike,Colossal Weapons,No passive effects,Endure
+Anvil Hammer,22,Yes,"{'Str': 39, 'Dex': 10, 'Int': 11, 'Fai': 20}",Strike,Colossal Weapons,No passive effects,Smithing Art Spears
+Devonia's Hammer,20,Yes,"{'Str': 30, 'Dex': 13, 'Fai': 19}",Strike,Colossal Weapons,No passive effects,Devonia's Vortex
+Shadow Sunflower Blossom,16,Yes,"{'Str': 24, 'Dex': 8, 'Fai': 25}",Strike,Colossal Weapons,No passive effects,Shadow Sunflower Headbutt
+Gazing Finger,15,Yes,"{'Str': 20, 'Dex': 8, 'Int': 20, 'Fai': 14}",Strike,Colossal Weapons,No passive effects,Kowtower's Resentment
+Short Spear,4,No,"{'Str': 10, 'Dex': 10}",Pierce,Spears,No passive effects,Impaling Thrust
+Iron Spear,4.5,No,"{'Str': 13, 'Dex': 11}",Pierce,Spears,No passive effects,Charge Forth
+Spear,4.5,No,"{'Str': 12, 'Dex': 15}",Pierce,Spears,No passive effects,Impaling Thrust
+Partisan,6.5,No,"{'Str': 15, 'Dex': 12}",Slash/Pierce,Spears,No passive effects,Impaling Thrust
+Pike,7.5,No,"{'Str': 20, 'Dex': 14}",Pierce,Spears,No passive effects,Charge Forth
+Spiked Spear,6,No,{'Str': 14},Strike/Pierce,Spears,(50) Hemorrhage,Impaling Thrust
+Cross-Naginata,8,No,"{'Str': 16, 'Dex': 20}",Slash/Pierce,Spears,(50) Hemorrhage,Impaling Thrust
+Clayman's Harpoon,5.5,No,"{'Str': 12, 'Dex': 10, 'Int': 12}",Pierce,Spears,No passive effects,Impaling Thrust
+Celebrant's Rib-Rake,5,No,"{'Str': 8, 'Dex': 14}",Pierce,Spears,No passive effects,Barbaric Roar
+Torchpole,6,No,"{'Str': 14, 'Dex': 15}",Pierce,Spears,No passive effects,Charge Forth
+Inquisitor's Girandole,7.5,No,"{'Str': 18, 'Dex': 15, 'Fai': 16}",Pierce,Spears,(50) Hemorrhage,Charge Forth
+Crystal Spear,5.5,No,"{'Str': 10, 'Dex': 16, 'Int': 16}",Pierce,Spears,No passive effects,Impaling Thrust
+Rotten Crystal Spear,5.5,No,"{'Str': 10, 'Dex': 16, 'Int': 16}",Pierce,Spears,(55) Scarlet Rot,Charge Forth
+Cleanrot Spear,5.5,No,"{'Str': 16, 'Dex': 16, 'Fai': 14}",Pierce,Spears,Raises Immunity by 50,Sacred Phalanx
+Death Ritual Spear,6.5,No,"{'Str': 14, 'Dex': 20, 'Int': 18}",Pierce,Spears,No passive effects,Spearcall Ritual
+Bolt of Gransax,8.5,No,"{'Str': 20, 'Dex': 40}",Pierce,Spears,No passive effects,Ancient Lightning Spear
+Smithscript Spear,4,Yes,"{'Str': 9, 'Dex': 12, 'Int': 11, 'Fai': 11}",Standard/Pierce,Spears,No passive effects,Impaling Thrust
+Swift Spear,3,Yes,"{'Str': 10, 'Dex': 26}",Standard/Pierce,Spears,No passive effects,Impaling Thrust
+Bloodfiend's Fork,4.5,Yes,"{'Str': 14, 'Dex': 8, 'Arc': 13}",Standard/Pierce,Spears,(30) Hemorrhage,Barbaric Roar
+Lance,9,No,"{'Str': 20, 'Dex': 14}",Pierce,Great Spears,No passive effects,Charge Forth
+Treespear,9.5,No,"{'Str': 15, 'Dex': 22, 'Fai': 18}",Pierce,Great Spears,No passive effects,Sacred Order
+Serpent-Hunter,12,No,{},Pierce,Great Spears,No passive effects,Great-Serpent Hunt
+Siluria's Tree,10,No,"{'Str': 27, 'Dex': 13, 'Fai': 20}",Pierce,Great Spears,No passive effects,Siluria's Woe
+Vyke's War Spear,8,No,"{'Str': 16, 'Dex': 20, 'Fai': 18}",Pierce,Great Spears,(65) Madness,Frenzyflame Thrust
+Mohgwyn's Sacred Spear,10,No,"{'Str': 24, 'Dex': 14, 'Arc': 27}",Pierce,Great Spears,(55) Hemorrhage,Bloodboon Ritual
+Bloodfiend's Sacred Spear,8,Yes,"{'Str': 22, 'Dex': 12, 'Arc': 13}",Standard/Pierce,Great Spears,(55) Hemorrhage,Bloodfiend's Bloodboon
+Messmer Soldier's Spear,8.5,Yes,"{'Str': 19, 'Dex': 16}",Standard/Pierce,Great Spears,No passive effects,Impaling Thrust
+Spear of the Impaler,9.5,Yes,"{'Str': 14, 'Dex': 35, 'Fai': 18}",Standard/Pierce,Great Spears,No passive effects,Messmer's Assault
+Barbed Staff-Spear,7.5,Yes,"{'Str': 14, 'Dex': 18, 'Fai': 22}",Standard/Pierce,Great Spears,(55) Hemorrhage,Jori's Inquisition
+Halberd,8,No,"{'Str': 14, 'Dex': 12}",Standard/Pierce,Halberds,No passive effects,Charge Forth
+Banished Knight's Halberd,8,No,"{'Str': 14, 'Dex': 12}",Standard/Pierce,Halberds,No passive effects,Charge Forth
+Lucerne,7,No,"{'Str': 15, 'Dex': 12}",Pierce,Halberds,No passive effects,Charge Forth
+Glaive,10,No,"{'Str': 18, 'Dex': 15}",Slash/Pierce,Halberds,No passive effects,Spinning Slash
+Vulgar Militia Shotel,8,No,"{'Str': 14, 'Dex': 16}",Standard/Pierce,Halberds,No passive effects,Spinning Slash
+Vulgar Militia Saw,8,No,"{'Str': 15, 'Dex': 13}",Standard/Pierce,Halberds,(55) Hemorrhage,Spinning Slash
+Guardian's Swordspear,9,No,"{'Str': 17, 'Dex': 16}",Standard/Pierce,Halberds,No passive effects,Spinning Slash
+Gargoyle's Halberd,12,No,"{'Str': 26, 'Dex': 10}",Standard/Pierce,Halberds,No passive effects,Spinning Slash
+Gargoyle's Black Halberd,12,No,"{'Str': 26, 'Dex': 10, 'Fai': 22}",Standard/Pierce,Halberds,No passive effects,Spinning Slash
+Nightrider Glaive,12,No,"{'Str': 26, 'Dex': 10}",Slash/Pierce,Halberds,No passive effects,Spinning Slash
+Pest's Glaive,7,No,"{'Str': 13, 'Dex': 13}",Slash/Pierce,Halberds,No passive effects,Spinning Slash
+Ripple Crescent Halberd,8.5,No,"{'Str': 12, 'Dex': 12, 'Arc': 20}",Standard/Pierce,Halberds,No passive effects,Spinning Slash
+Golden Halberd,13.5,No,"{'Str': 30, 'Dex': 14, 'Fai': 12}",Standard/Pierce,Halberds,No passive effects,Golden Vow
+Dragon Halberd,10.5,No,"{'Str': 22, 'Dex': 10}",Standard/Pierce,Halberds,No passive effects,Spinning Slash
+Loretta's War Sickle,10,No,"{'Str': 20, 'Dex': 15, 'Int': 20}",Slash/Pierce,Halberds,No passive effects,Loretta's Slash
+Commander's Standard,11.5,No,"{'Str': 24, 'Dex': 14}",Standard/Pierce,Halberds,No passive effects,Rallying Standard
+Spirit Glaive,6.5,Yes,"{'Str': 14, 'Dex': 17, 'Int': 16}",Slash/Pierce,Halberds,No passive effects,Rancor Slash
+Poleblade of the Bud,10,Yes,"{'Str': 14, 'Dex': 22, 'Arc': 20}",Slash/Pierce,Halberds,(55) Scarlet Rot,Romina's Purification
+Scythe,7.5,No,"{'Str': 14, 'Dex': 14}",Slash,Reapers,(55) Hemorrhage,Spinning Slash
+Grave Scythe,9.5,No,{'Str': 17},Slash,Reapers,(55) Hemorrhage,Spinning Slash
+Halo Scythe,8.5,No,"{'Str': 13, 'Dex': 16, 'Fai': 15}",Slash,Reapers,(55) Hemorrhage,Miquella's Ring of Light
+Winged Scythe,7.5,No,"{'Str': 16, 'Dex': 16, 'Fai': 24}",Slash,Reapers,(55) Hemorrhage,Angel's Wings
+Obsidian Lamina,6.5,Yes,"{'Str': 12, 'Dex': 25, 'Arc': 17}",Slash,Reapers,(33) Hemorrhage,Dynastic Sickleplay
+Whip,2,No,"{'Str': 8, 'Dex': 14}",Strike,Whips,No passive effects,Kick
+Thorned Whip,2.5,No,"{'Str': 8, 'Dex': 16}",Strike,Whips,(50) Hemorrhage,Kick
+Urumi,3,No,"{'Str': 10, 'Dex': 19}",Slash,Whips,No passive effects,Kick
+Hoslow's Petal Whip,3.5,No,"{'Str': 10, 'Dex': 20}",Strike,Whips,(55) Hemorrhage,Kick
+Magma Whip Candlestick,2.5,No,"{'Str': 8, 'Dex': 16, 'Fai': 18}",Strike,Whips,No passive effects,Sea of Magma
+Giant's Red Braid,2.5,No,"{'Str': 18, 'Dex': 12, 'Fai': 21}",Strike,Whips,No passive effects,Flame Dance
+Tooth Whip,3,Yes,"{'Str': 10, 'Dex': 24}",Strike,Whips,(66) Poison,Painful Strike
+Caestus,1.5,No,"{'Str': 8, 'Dex': 8}",Strike,Fists,No passive effects,Endure
+Spiked Caestus,2,No,"{'Str': 8, 'Dex': 10}",Strike,Fists,(45) Hemorrhage,Endure
+Katar,2.5,No,"{'Str': 8, 'Dex': 10}",Slash/Pierce,Fists,No passive effects,Impaling Thrust
+Iron Ball,2.5,No,"{'Str': 11, 'Dex': 8}",Strike,Fists,No passive effects,Endure
+Star Fist,3,No,"{'Str': 12, 'Dex': 8}",Strike,Fists,(45) Hemorrhage,Endure
+Clinging Bone,3,No,"{'Str': 8, 'Dex': 22, 'Arc': 16}",Slash/Pierce,Fists,No passive effects,Lifesteal Fist
+Veteran's Prosthesis,4,No,"{'Str': 15, 'Dex': 12}",Slash/Pierce,Fists,No passive effects,Storm Kick
+Cipher Pata,0,No,{'Fai': 30},Slash/Pierce,Fists,No passive effects,Unblockable Blade
+Grafted Dragon,2.5,No,"{'Str': 20, 'Dex': 14, 'Fai': 16}",Strike,Fists,No passive effects,Bear Witness!
+Pata,4,Yes,"{'Str': 11, 'Dex': 15}",Standard/Pierce,Fists,No passive effects,Impaling Thrust
+Golem Fist,5,Yes,"{'Str': 24, 'Dex': 8, 'Int': 11, 'Fai': 11}",Strike,Fists,No passive effects,Endure
+Madding Hand,1,Yes,"{'Str': 8, 'Dex': 8, 'Int': 13, 'Fai': 20}",Strike,Fists,(55) Madness,Madding Spear-Hand Strike
+Thiollier's Hidden Needle,0.5,Yes,"{'Str': 10, 'Dex': 22, 'Int': 15}",Pierce,Fists,(42) Sleep,Sleep Evermore
+Poisoned Hand,1,Yes,"{'Str': 8, 'Dex': 8, 'Arc': 28}",Strike,Fists,(36) Poison,Poison Spear-Hand Strike
+Hookclaws,2,No,"{'Str': 8, 'Dex': 14}",Slash/Pierce,Claws,(60) Hemorrhage,Quickstep
+Bloodhound Claws,3,No,"{'Str': 10, 'Dex': 15}",Slash/Pierce,Claws,(60) Hemorrhage,Bloodhound's Step
+Venomous Fang,2.5,No,"{'Str': 9, 'Dex': 9}",Slash/Pierce,Claws,(72) Poison,Quickstep
+Raptor Talons,1.5,No,"{'Str': 6, 'Dex': 14}",Slash/Pierce,Claws,(60) Hemorrhage,Quickstep
+Claws of Night,3,Yes,"{'Str': 8, 'Dex': 20}",Slash/Pierce,Claws,(45) Hemorrhage,Scattershot Throw
+Shortbow,2.5,No,"{'Str': 8, 'Dex': 10}",None,Light Bows,No passive effects,Barrage
+Composite Bow,3,No,"{'Str': 15, 'Dex': 15}",None,Light Bows,No passive effects,Mighty Shot
+Red Branch Shortbow,2.5,No,"{'Str': 8, 'Dex': 16}",None,Light Bows,No passive effects,Barrage
+Misbegotten Shortbow,3,No,"{'Str': 16, 'Dex': 8}",LightBows,Light Bows,No passive effects,Barrage
+Harp Bow,2,No,"{'Str': 9, 'Dex': 9}",LightBows,Light Bows,No passive effects,Barrage
+Bone Bow,3,Yes,"{'Str': 8, 'Dex': 11}",None,Bows,No passive effects,Rancor Shot
+Longbow,4,No,"{'Str': 9, 'Dex': 14}",None,Bows,No passive effects,Mighty Shot
+Albinauric Bow,4.5,No,"{'Str': 7, 'Dex': 18}",None,Bows,No passive effects,Mighty Shot
+Black Bow,4,No,"{'Str': 9, 'Dex': 20}",None,Bows,No passive effects,Barrage
+Pulley Bow,5,No,"{'Str': 11, 'Dex': 11}",None,Bows,No passive effects,Mighty Shot
+Horn Bow,4.5,No,"{'Str': 10, 'Dex': 14, 'Int': 12}",None,Bows,No passive effects,Mighty Shot
+Serpent Bow,3.5,No,"{'Str': 8, 'Dex': 15, 'Arc': 11}",None,Bows,No passive effects,Mighty Shot
+Erdtree Bow,4,No,"{'Str': 8, 'Dex': 12, 'Fai': 14}",-,Bows,No passive effects,Mighty Shot
+Ansbach's Longbow,4.5,Yes,"{'Str': 9, 'Dex': 43}",None,Bows,No passive effects,Fan Shot
+Greatbow,10,No,"{'Str': 20, 'Dex': 20}",None,Greatbows,No passive effects,Through and Through
+Golem Greatbow,14.5,No,"{'Str': 24, 'Dex': 18}",None,Greatbows,No passive effects,Through and Through
+Erdtree Greatbow,11,No,"{'Str': 20, 'Dex': 14, 'Fai': 14}",None,Greatbows,No passive effects,Through and Through
+Lion Greatbow,9.5,No,"{'Str': 22, 'Dex': 18}",None,Greatbows,No passive effects,Radahn's Rain
+Igon's Greatbow,12.5,Yes,"{'Str': 23, 'Dex': 16}",None,Greatbows,No passive effects,Igon's Drake Hunt
+Soldier's Crossbow,3.5,No,"{'Str': 10, 'Dex': 8}",None,Crossbows,No passive effects,Kick
+Light Crossbow,4,No,"{'Str': 12, 'Dex': 8}",None,Crossbows,No passive effects,Kick
+Heavy Crossbow,5.5,No,"{'Str': 14, 'Dex': 10}",None,Crossbows,No passive effects,Kick
+Arbalest,6,No,"{'Str': 18, 'Dex': 12}",None,Crossbows,No passive effects,Kick
+Crepus's Black-Key Crossbow,5,No,"{'Str': 14, 'Dex': 16}",None,Crossbows,No passive effects,Kick
+Pulley Crossbow,4,No,"{'Str': 16, 'Dex': 16}",None,Crossbows,No passive effects,Kick
+Full Moon Crossbow,4,No,"{'Str': 10, 'Dex': 10, 'Int': 14}",None,Crossbows,No passive effects,Kick
+Repeating Crossbow,6,Yes,"{'Str': 13, 'Dex': 15}",None,Crossbows,No passive effects,Repeating Fire
+Spread Crossbow,5,Yes,"{'Str': 11, 'Dex': 17}",None,Crossbows,No passive effects,Kick
+Hand Ballista,10,No,"{'Str': 30, 'Dex': 14}",None,Ballistas,No passive effects,Kick
+Jar Cannon,15,No,"{'Str': 34, 'Dex': 12}",None,Ballistas,No passive effects,Kick
+Rabbath's Cannon,15,Yes,"{'Str': 28, 'Dex': 16}",None,Ballistas,No passive effects,Kick
+Astrologer's Staff,3,No,"{'Str': 7, 'Int': 16}",Strike,Glintstone Staffs,No passive effects,No Skill
+Glintstone Staff,3,No,"{'Str': 6, 'Int': 10}",Strike,Glintstone Staffs,No passive effects,No Skill
+Academy Glintstone Staff,3,No,"{'Str': 6, 'Int': 28}",Strike,Glintstone Staffs,No passive effects,No Skill
+Digger's Staff,4.5,No,"{'Str': 8, 'Int': 12}",Strike,Glintstone Staffs,Boosts Stonedigger Sorcery,No Skill
+Demi-Human Queen's Staff,3,No,"{'Str': 6, 'Int': 10}",Strike,Glintstone Staffs,No passive effects,No Skill
+Azur's Glintstone Staff,4,No,"{'Str': 10, 'Int': 52}",Strike,Glintstone Staffs,No passive effects,No Skill
+Lusat's Glintstone Staff,4,No,"{'Str': 10, 'Int': 52}",Strike,Glintstone Staffs,No passive effects,No Skill
+Carian Glintstone Staff,3,No,"{'Str': 6, 'Int': 24, 'Dex': 8}",Strike,Glintstone Staffs,: Boosts Carian Sword Sorcery,No Skill
+Carian Glintblade Staff,2.5,No,"{'Str': 6, 'Int': 22, 'Dex': 12}",Strike,Glintstone Staffs,Boosts Glintblade Sorcery,No Skill
+Carian Regal Scepter,3,No,"{'Str': 8, 'Dex': 10, 'Int': 60}",Strike,Glintstone Staffs,Boosts full moon sorcery,Spinning Weapon
+Albinauric Staff,2.5,No,"{'Str': 6, 'Int': 10, 'Arc': 12}",Strike,Glintstone Staffs,No passive effects,No Skill
+Staff of Loss,2.5,No,"{'Str': 6, 'Dex': 12, 'Int': 14}",Strike,Glintstone Staffs,Boosts Invisibility Sorcery,No Skill
+Gelmir Glintstone Staff,2.5,No,"{'Str': 6, 'Int': 14, 'Fai': 14}",Strike,Glintstone Staffs,: Boosts Lava Sorcery,No Skill
+Crystal Staff,4.5,No,"{'Str': 8, 'Int': 48}",Strike,Glintstone Staffs,Boosts Crystalian sorceries,No Skill
+Rotten Crystal Staff,4.5,No,"{'Str': 8, 'Int': 48}",Strike,Glintstone Staffs,Boosts Crystalian Sor. (50) Scarlet Rot,No Skill
+Meteorite Staff,4.5,No,"{'Str': 6, 'Int': 18}",StrikeDamage,Glintstone Staffs,Boosts Gravity Sorcery,No Skill
+Staff of the Guilty,4.5,No,"{'Str': 8, 'Fai': 12}",Strike,Glintstone Staffs,(45) Boosts Thorn Sorcery Hemorrhage,No Skill
+Prince of Death's Staff,3,No,"{'Str': 6, 'Int': 18, 'Fai': 18}",Strike,Glintstone Staffs,Boosts Death Sorceries,No Skill
+Staff of the Great Beyond,2.5,Yes,"{'Str': 7, 'Int': 25, 'Fai': 25}",Strike,Glinstone Staves,No passive effects,No Skill
+Maternal Staff,2.5,Yes,"{'Str': 7, 'Int': 21, 'Arc': 21}",Strike,Glinstone Staves,No passive effects,No Skill
+Finger Seal,1.5,No,"{'Str': 4, 'Fai': 10}",Strike,Sacred Seals,No passive effects,No Skill
+Erdtree Seal,0,No,{'Fai': 40},Strike,Sacred Seals,No passive effects,No Skill
+Golden Order Seal,0,No,"{'Int': 17, 'Fai': 17}",Strike,Sacred Seals,Boosts Fundamentalist Inc.,No Skill
+Gravel Stone Seal,1.5,No,"{'Str': 4, 'Fai': 18}",Strike,Sacred Seals,Boosts Dragon Cult Incantations,No Skill
+Giant's Seal,1.5,No,"{'Str': 4, 'Fai': 14}",Strike,Sacred Seals,Boosts Giants' FlameIncantations,No Skill
+Godslayer's Seal,1.5,No,"{'Str': 4, 'Fai': 27}",Strike,Sacred Seals,Boosts Godslayer Incantations,No Skill
+Clawmark Seal,1.5,No,"{'Str': 4, 'Fai': 10}",Strike,Sacred Seals,Boosts Bestial Incantations,No Skill
+Frenzied Flame Seal,12,No,{},Strike,Sacred Seals,(55) Madness,No Skill
+Dragon Communion Seal,0,No,"{'Fai': 10, 'Arc': 10}",Strike,Sacred Seals,Boosts Dragon Communion Incantations,No Skill
+Dryleaf Seal,1.5,Yes,"{'Str': 8, 'Fai': 27}",Strike,Sacred Seals,No passive effects,No Skill
+Fire Knight's Seal,1.5,Yes,"{'Str': 8, 'Fai': 23}",Strike,Sacred Seals,No passive effects,No Skill
+Spiraltree Seal,1.5,Yes,"{'Str': 8, 'Fai': 17}",Strike,Sacred Seals,No passive effects,No Skill
+Torch,1.5,No,"{'Str': 5, 'Dex': 5}",Strike,Torches,No passive effects,Torch Attack
+Beast-Repellent Torch,2.5,No,"{'Str': 12, 'Dex': 8}",Strike,Torches,No passive effects,Torch Attack
+Steel-Wire Torch,3,No,"{'Str': 10, 'Dex': 8}",Strike,Torches,No passive effects,Firebreather
+Sentry's Torch,5,No,"{'Str': 15, 'Dex': 8, 'Fai': 15}",Strike,Torches,No passive effects,Torch Attack
+Ghostflame Torch,2.5,No,"{'Str': 10, 'Dex': 10, 'Int': 14}",Strike,Torches,(65) Frostbite,Torch Attack
+St. Trina's Torch,3,No,"{'Str': 10, 'Dex': 10, 'Fai': 14}",Strike,Torches,(72) Sleep,Fires of Slumber
+Lamenting Visage,2,Yes,{'Str': 9},Strike,Torches,No passive effects,Blindfold of Happiness
+Nanaya's Torch,3.5,Yes,"{'Str': 10, 'Dex': 10, 'Int': 14, 'Fai': 16}",Strike,Torches,(65) Madness,Feeble Lord's Frenzied Flame
